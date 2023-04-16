@@ -1,9 +1,11 @@
 edition: 1.0.0
 name: feishuBot-chatGpt
-access: "aliyun" #  秘钥别名
+access: "default-1" #  秘钥别名
 
 vars: # 全局变量
-  region: "cn-hongkong"
+  #region: "cn-hongkong"
+  #region: "ap-northeast-1"
+  region: "ap-northeast-1"
 
 services:
   helloworld:
@@ -24,7 +26,9 @@ services:
       service:
         name: "feishubot"
         description: "Serverless Devs Website Service"
-        role: 'acs:ram::1473131655595785:role/jinzaizhichi'
+          #role: 'acs:ram::1473131655595785:role/jinzaizhichi'
+        role: 'arn:aws:iam::085148205981:user/jinzaizhichi'
+          #accountid: '8f7476bc7310635919eae03d40af79ad2ff0281c6de812725cbcf674ebce599f'
       function:
         name: "feishu-chatgpt"
         description: 'a simple feishubot by serverless devs'
