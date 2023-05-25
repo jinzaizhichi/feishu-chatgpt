@@ -1,20 +1,21 @@
 <p align='center'>
-    <img src='./docs/img3.png' alt='' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/263f647a-858e-4c4f-8eb9-4cc4d66c31fd' alt='' width='800'/>
 </p>
 
 <details align='center'>
-    <summary> 📷 点击展开完整功能截图</summary>
+    <summary> 📷 点击展开企联AI完整功能</summary>
     <br>
     <p align='center'>
-    <img src='https://user-images.githubusercontent.com/50035229/224493411-085ba405-81cd-4972-b87b-74a2e811f23d.png' alt='语音对话' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/223590381-ed38db74-39f3-4e77-bd3a-aaa54d679286.png' alt='角色扮演' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/228092540-bb9c74de-fccb-4d07-9797-f3fe1fb3705a.png' alt='角色列表' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/223590817-37a56eac-ab6e-4293-862a-de0988ac50b7.png' alt='文字成图' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/224531308-378a5bc3-2964-4e32-905f-8237dafc3f91.png' alt='图片变体' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/227900488-10a53176-f4e3-4b9e-bf9e-b60d958aefc8.png' alt='余额查询' width='800'/>
-    <img src='https://user-images.githubusercontent.com/50035229/224531775-3f0e1e1b-a373-4774-a8f0-e120ccba6670.png' alt='帮助菜单' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/8a589e42-c092-4878-83c3-dc12a801c2d6' alt='语音对话' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/263f647a-858e-4c4f-8eb9-4cc4d66c31fd' alt='角色扮演' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/39192ec8-9823-46c5-a56e-87fb1c9ce255' alt='角色扮演' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/8ff3decd-e0ae-436d-8f6f-4eb28f599866' alt='角色列表' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/92712155-eb0c-4dce-a005-c05a21dd8280' alt='文字成图' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/25cf595f-eaaf-4a52-8066-02afdc9fcdad' alt='余额查询' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/9ce7b941-2806-484c-94dc-0abc8e735a7f' alt='帮助菜单' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/d5128f44-53cc-4a49-9fd1-573bbb1fddff' alt='帮助菜单' width='800'/>
+    <img src='https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/43b52857-bde9-4c56-8cf1-bdafe31d4aaa' alt='帮助菜单' width='800'/>
     </p>
-
 </details>
 
 <br>
@@ -26,42 +27,27 @@
     🚀 Feishu OpenAI 🚀
 </p>
 
-## 🥁 号外号外!
-
-大家好呀！我们正在招募一批小伙伴来加入我们的重构项目！
-
-如果你对以下领域感兴趣，那么你就是我们正在寻找的人啦！
-
-#### 前端小伙伴
-- React！React！React！
-- 如果你还有一些B端开发经验那就更棒啦！
-- 创意？没关系，我们有设计师！
-
-#### 后端小伙伴
-- Golang语言，了解不用说！
-- 熟练掌握gin框架，开发后端就跟呼吸一样自然！
-- 对钉钉、飞书、企微等平台的SDK有所了解，能够开发和集成一系列令人惊叹的功能！
-- 精通平台化细节思维，让你开发的高效服务端热更新脚本惊艳全场！
-- 轻松驾驭Docker容器化技术，随心所欲地部署代码！
-- 有一些支付功能开发经验，真正能让钞票砰砰砰地飞！
-- 了解部分Linux脚本和socket编程
-- 上述满足一些即可
-
-#### 测试小伙伴
-- 不是小姐姐也没关系哦~
+<p align='center'>
+  😀企联AI共创计划正式开启😀
+</p>
+  
+<p align='center'>
+   https://fork-way.feishu.cn/docx/Gvztd1iVXoXOsVxF2ujcnPPenDf
+</p>
 
 
-gpt应用没思路？要不试试加入我们的项目组，成为这个充满活力、热情的团队的一员吧！
+## 商业支持
 
-我们队员有
-- [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)和[ChatPaper的维护者](https://github.com/kaixindelele/ChatPaper)-->[cc](https://github.com/circlestarzero)
-- [钉钉GPT的维护者](https://github.com/eryajf/chatgpt-dingtalk)-->[eryajf](https://github.com/eryajf)
-- [飞书GPT的维护者](https://github.com/Leizhenpeng/feishu-chatgpt)-->[river](https://space.bilibili.com/66891783)
-- 正在心动的你！
+如果开源版无法满足您公司的需求，推荐您尝试的商业共创版
 
-有费用！不会白嫖！
+- 内置开箱即用的Azure Openai: 无需部署到海外，即可获得数十倍的性能提升
+- 掌控全局的Admin Panel: AI资源管理、对话日志查询、风险词规避和对话权限管理
+- 专人技术支持: 配备专业部署交付人员与后期一对一维护服务
+- 同时提供在线Saas版/企业级私有部署
 
-想来玩就戳我微信吧~~`laolei_forkway`~~
+查看更多内容: https://connect-ai.forkway.cn
+
+企业客户咨询: 13995928702(River)
 
 
 ## 👻 机器人功能
@@ -75,6 +61,8 @@ gpt应用没思路？要不试试加入我们的项目组，成为这个充满�
 🛖 场景预设：内置丰富场景列表，一键切换AI角色
 
 🎭 角色扮演：支持场景模式，增添讨论乐趣和创意
+
+🤖 AI模式：内置4种AI模式，感受AI的智慧与创意
 
 🔄 上下文保留：回复对话框即可继续同一话题讨论
 
@@ -255,12 +243,12 @@ s deploy
     <summary>使用 Railway 平台一键部署</summary>
 
 
-Railway 是一家国外的 Serverless 平台，支持多种语言，可以一键将 Github 上的代码仓库部署到 Railway 平台，然后在 Railway
+Railway 是一家国外的 Serverless 平台，支持多种语言，可以一键将 GitHub 上的代码仓库部署到 Railway 平台，然后在 Railway
 平台上配置环境变量即可。部署本项目的流程如下：
 
 #### 1. 生成 Railway 项目
 
-点击下方按钮即可创建一个对应的 Railway 项目，其会自动 Fork 本项目到你的 Github 账号下。
+点击下方按钮即可创建一个对应的 Railway 项目，其会自动 Fork 本项目到你的 GitHub 账号下。
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/10D-TF?referralCode=oMcVS2)
 
@@ -461,21 +449,26 @@ docker compose down
 这里有些[免费的OpenAI Key](https://freeopenai.xyz/), 大家可测试使用。
 
 
-## 更多交流
 
-
-如需协助部署，或者其他定制服务，可联系下面的WeChat，支持发票~
+## 一起交流
 
 遇到问题，可以加入飞书群沟通~
 
+<img src='https://user-images.githubusercontent.com/13283837/232570671-1058555f-c9e5-4f64-889b-1d8efd0101ba.png' alt='' width='200'/>
 
-<img src='https://user-images.githubusercontent.com/50035229/229813025-516d09f7-7de3-46b5-8407-f0bbf8b44344.png' alt='' width='200'/>
 
-## 交朋友 或者 鼓励一下
+## 企联AI
+开源社区：https://github.com/ConnectAI-E
 
-如果你觉得这个项目对你有帮助，可以请作者买本书~
+产品日志：https://connect-ai.forkway.cn/logs
 
-<img width="400" src="https://user-images.githubusercontent.com/50035229/224462896-28f7b2d5-f443-4cc2-9790-7b72e5c53f15.png">
+需求追踪：[为更好的「企联AI」~ ](https://fork-way.feishu.cn/base/CvaNbmt1KaUIIOsU8xiciqylnTd)
 
-😚 谢谢你啦 😚
+bug反馈：https://fork-way.feishu.cn/share/base/form/shrcnYcag9Jvp71dUWKkBe3wPQd
+
+企业咨询：13995928702(River)
+
+<img width="400" src="https://github.com/ConnectAI-E/Feishu-OpenAI/assets/50035229/7912a8e9-2aa8-4235-a8be-4c323d248832">
+
+
 
